@@ -12,6 +12,7 @@ const Article = ({ title, price, isNew }) => {
                     height={300}
                     alt="iphone"
                     className="w-full h-full object-center object-cover"
+                    priority={true}
                 />
             </div>
             <div className="pt-10 pb-4 px-10">
