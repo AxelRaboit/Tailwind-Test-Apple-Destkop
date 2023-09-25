@@ -22,13 +22,15 @@ const Article = ({ title, price, isNew }) => {
                 <h3 className="text-md font-light text-gray-700">{title}</h3>
 
                 <div className="flex justify-center space-x-2 mt-4">
-                    <Dots bgColor="bg-blue-500" />
+                    <Dots bgColor="bg-blue-900" />
                     <Dots bgColor="bg-red-500" />
-                    <Dots bgColor="bg-green-500" />
-                    <Dots bgColor="bg-teal-500" />
-                    <Dots bgColor="bg-yellow-500" />
+                    <Dots bgColor="bg-neutral-900" />
                     <Dots bgColor="bg-gray-500" />
                 </div>
+
+                <button className="bg-black text-white text-xs font-medium px-4 py-2 rounded-full mt-4">
+                    Ajouter au panier
+                </button>
             </div>
         </div>
     );
