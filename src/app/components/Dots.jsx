@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Dots = ({ color }) => {
-  
+const Dots = ({ bgColor }) => {
+
   return (
-    <span className={`rounded-full bg-${color}-500 w-4 h-4 shadow-inner`}></span>
+    <span className={`rounded-full ${bgColor} w-4 h-4 shadow-inner`}></span>
   );
 }
 
