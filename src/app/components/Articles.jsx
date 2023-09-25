@@ -21,57 +21,57 @@ const Articles = () => {
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="1599"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="1799"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="899"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="699"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="1299"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="1399"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="2100"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="799"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="1099"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="1249"
                 isNew={false}
             />
             <Article
                 title="Coque en silicone avec MagSafe pour iPhone 13 Pro - Trèfle"
-                price="1499"
+                price="1279"
                 isNew={false}
             />
         </div>
